@@ -1,8 +1,6 @@
 server:
   port: 8191
-  forward-headers-strategy: native
-encrypt:
-  key: secretKey1234A123DsK
+  
 spring:
   application:
     name: configserver
