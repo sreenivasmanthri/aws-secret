@@ -1,0 +1,3 @@
+com/secrets/manager/springsecretsmanager/config/AwsSecretsManagerBootstrapConfiguration.class
+com/secrets/manager/springsecretsmanager/SpringTestRestController.class
+com/secrets/manager/springsecretsmanager/SpringSecretsManagerApplication.class

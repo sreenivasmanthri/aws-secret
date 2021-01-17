@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+configure,com.secrets.manager.springsecretsmanager,SpringSecretsManagerApplication,5,3,0,0,2,1,1,1,1,1
+configure,com.secrets.manager.springsecretsmanager,SpringTestRestController,24,3,0,0,5,1,1,1,1,1
+configure,com.secrets.manager.springsecretsmanager.config,AwsSecretsManagerBootstrapConfiguration,0,10,0,0,0,2,0,2,0,2
