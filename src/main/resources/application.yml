@@ -24,11 +24,8 @@ spring:
         git:
           force-pull: true
           clone-on-start: true
-          uri: git@github.com:sapling-hr/cloud-config-repo
-          search-paths:
-            - '*svc'
-            - '*app'
-          default-label: task/cfgsvc-poc-sd8846
+          uri: https://github.com/sreenivasmanthri/storage.git
+        
 
 management:
   endpoints:
